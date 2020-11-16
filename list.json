@@ -1,0 +1,86 @@
+{
+    "list":[
+        {
+            "SlNum":"1",
+            "Name":"Onion",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Category":"Food",
+            "Notes":"Only fresh"
+        },
+        {
+            "SlNum":"2",
+            "Name":"Brinjal",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Category":"Food",
+            "Notes":"only fresh"
+        },
+        {
+            "SlNum":"3",
+            "Name":"Carrot",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Category":"Food",
+            "Notes":"only fresh"
+        },
+        {
+            "SlNum":"4",
+            "Name":"Oil",
+            "Quantity":"1",
+            "Unit":"l",
+            "Category":"Food",
+            "Notes":"Sunflower Oil"
+        },
+        {
+            "SlNum":"5",
+            "Name":"Notebook",
+            "Quantity":"2",
+            "Unit":"Number",
+            "Category":"Stationary",
+            "Notes":"Regular-size"
+        },
+        {
+            "SlNum":"6",
+            "Name":"Pen",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Category":"Stationary",
+            "Notes":"Ball-point"
+        },
+        {
+            "SlNum":"7",
+            "Name":"Color Pencil",
+            "Quantity":"1",
+            "Unit":"Packet",
+            "Category":"Stationary",
+            "Notes":"Faber-Castell"
+        },
+        {
+            "SlNum":"8",
+            "Name":"Sanitizer",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Category":"Health",
+            "Notes":"Good brand"
+        },
+        {
+            "SlNum":"9",
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Category":"Health",
+            "Notes":"Dettol"
+        },
+        {
+            "SlNum":"10",
+            "Name":"Mask",
+            "Quantity":"15",
+            "Unit":"Number",
+            "Category":"Health",
+            "Notes":"Reusable and washable"
+        }
+       
+ 
+          ]
+}

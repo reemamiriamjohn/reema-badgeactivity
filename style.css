@@ -1,0 +1,82 @@
+body
+{
+    background-color: lightblue; 
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    text-align: center;
+    /* background-image: url(https://www.purbis.com/images/grocery/grocerystore.png),url(https://theeasymarket.files.wordpress.com/2014/02/supermarket-new-york.png) ; */
+    background-repeat: no-repeat;
+     background-position: bottom left,bottom right; 
+    /* background-size: cover;  */
+    /* align-content: center; */
+    /* align-items: center; */
+}
+  
+  /* @keyframes example 
+{
+    0% {background-color:skyblue}
+    25% {background-color:lightsalmon;}
+    50% {background-color: lightseagreen;}
+    100% {background-color: yellowgreen;} */
+}
+#head
+{
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 0 0 20px yellow;
+    margin-bottom: 20px;
+    position: relative;
+    animation: text 5s infinite;
+}
+/* @keyframes text{ 
+    0%{letter-spacing: 1px;
+    }
+    50%{
+        letter-spacing: 5px;
+    }
+    100%{
+        letter-spacing: 1px;
+    }
+ } */
+caption, label{
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(2, 68, 2);
+    text-decoration: underline;
+}
+label{
+    text-decoration: none;
+}
+#deptSelect{
+    width: auto;
+    height: 30px;
+    border: 1px solid green ;
+    font-weight: bold;
+}
+table{
+    /* text-align: center; */
+    width: auto;
+    border-collapse: collapse;
+    background-color: palegoldenrod;
+    border: 2px solid black;    
+    margin: auto;
+    margin-top: 20px;
+}
+th
+{
+    text-transform: uppercase;
+}
+th, td{
+    border: 1px solid green;
+    padding: 5px;
+    font-weight: bolder;
+}
+tr:nth-child(even){
+    background-color: honeydew;
+}
+#deptSelect
+{
+     background-color:palegoldenrod; 
+}
